@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build",
+  "command": "/usr/bin/g++  -I\"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/include\" -g -g -O0 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c \"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/src/main.cpp\"",
+  "file": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/src/main.cpp"
+},
+{
+  "directory": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build",
+  "command": "/usr/bin/g++  -I\"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/include\" -g -std=gnu++14 -o CMakeFiles/mylib.dir/src/duration.cpp.o -c \"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/src/duration.cpp\"",
+  "file": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/src/duration.cpp"
+},
+{
+  "directory": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests",
+  "command": "/usr/bin/g++  -I\"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/include\" -g -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c \"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/src/tests.cpp\"",
+  "file": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/src/tests.cpp"
+}
+]
