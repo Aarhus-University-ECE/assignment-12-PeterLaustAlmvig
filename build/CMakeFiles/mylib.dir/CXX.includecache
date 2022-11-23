@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/duration.hpp
+stdbool.h
+-
+
+/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/src/duration.cpp
+duration.hpp
+/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/src/duration.hpp
+assert.h
+-
+

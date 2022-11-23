@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/include"
+CXX_INCLUDES = -I"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/include" -I"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/include"
 
 CXX_FLAGS = -g -std=gnu++14
 

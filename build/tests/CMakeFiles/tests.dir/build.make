@@ -98,6 +98,7 @@ tests_EXTERNAL_OBJECTS =
 
 tests/tests: tests/CMakeFiles/tests.dir/src/tests.cpp.o
 tests/tests: tests/CMakeFiles/tests.dir/build.make
+tests/tests: libmylib.a
 tests/tests: tests/CMakeFiles/tests.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable tests"
 	cd "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/tests.dir/link.txt --verbose=$(VERBOSE)

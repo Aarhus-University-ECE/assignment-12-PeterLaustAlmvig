@@ -11,7 +11,7 @@
 },
 {
   "directory": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests",
-  "command": "/usr/bin/g++  -I\"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/include\" -g -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c \"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/src/tests.cpp\"",
+  "command": "/usr/bin/g++  -I\"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/include\" -I\"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/include\" -g -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c \"/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/src/tests.cpp\"",
   "file": "/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/tests/src/tests.cpp"
 }
 ]
