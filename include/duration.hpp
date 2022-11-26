@@ -23,6 +23,8 @@ class Duration{
         bool Tick(int dt);
 
         void SetAlarm(int t);
+
+        bool CheckAndUpdateAlarm();
 };
 
 #endif

@@ -1,37 +1,37 @@
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/rebuild_cache.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/test.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/edit_cache.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyMemCheck.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/main.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyTest.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousConfigure.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousBuild.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/mylib.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyConfigure.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyMemoryCheck.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalTest.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousUpdate.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyUpdate.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalMemCheck.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalSubmit.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/Experimental.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousCoverage.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalConfigure.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/Continuous.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/Nightly.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlySubmit.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyStart.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalCoverage.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyCoverage.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalStart.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyBuild.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalBuild.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalUpdate.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousStart.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousMemCheck.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousTest.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousSubmit.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/rebuild_cache.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/edit_cache.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/test.dir
-/home/laust/første-semester/Programmering for Computerteknologi/week-12-handin/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/tests.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/Experimental.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/Nightly.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/Continuous.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyMemoryCheck.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyStart.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyUpdate.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyConfigure.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyBuild.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyTest.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyCoverage.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlyMemCheck.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/NightlySubmit.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalStart.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalUpdate.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalConfigure.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalBuild.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalTest.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalCoverage.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalMemCheck.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ExperimentalSubmit.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousStart.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousUpdate.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousConfigure.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousBuild.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousTest.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousCoverage.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousMemCheck.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/ContinuousSubmit.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/mylib.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/main.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/test.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/edit_cache.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/CMakeFiles/rebuild_cache.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/tests.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/test.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/edit_cache.dir
+/home/laust/prog-assignments/assignment-12-PeterLaustAlmvig/build/tests/CMakeFiles/rebuild_cache.dir

@@ -35,6 +35,7 @@ TEST_CASE("SetAlarm"){
     d2.SetAlarm(3);
     d3.SetAlarm(5);
 
+    //Different alarms return true at different times. And returns false in the next tick.
     REQUIRE_FALSE(d1.Tick());
     REQUIRE_FALSE(d2.Tick());
     REQUIRE_FALSE(d3.Tick());
@@ -43,13 +44,15 @@ TEST_CASE("SetAlarm"){
     REQUIRE_FALSE(d2.Tick());
     REQUIRE_FALSE(d3.Tick());
 
-    REQUIRE(d1.Tick());
+    REQUIRE_FALSE(d1.Tick());
     REQUIRE(d2.Tick());
     REQUIRE_FALSE(d3.Tick());
 
-    //Check that it also returns true when you overshoot with tick
-
+    //Check that it also returns true when you overshoot the alarm time with tick.
     REQUIRE(d3.Tick(15));
+
+    //It should only return true once.
+    REQUIRE_FALSE(d3.Tick());
 
 }
 

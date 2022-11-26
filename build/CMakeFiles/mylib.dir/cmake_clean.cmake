@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/mylib.dir/src/duration.cpp.o"
+  "CMakeFiles/mylib.dir/src/duration.cpp.o.d"
   "libmylib.a"
   "libmylib.pdb"
 )
